@@ -17,19 +17,9 @@ Dibangun menggunakan **HTML, CSS, dan JavaScript**, game ini dapat diakses dari 
 - **Tingkat Kesulitan:** Easy, Medium, Hard  
 - **Umpan Balik Langsung:** Tanda ✔️ atau ❌ untuk setiap jawaban  
 - **Sistem Skor & Rekap Hasil**  
-- **Antarmuka Ramah Anak & Responsif**  
-
-## 🖼 Tampilan Game  
-> Tambahkan screenshot game di sini  
-![Home Page](screenshot/home.png)  
-![Gameplay](screenshot/gameplay.png)  
+- **Antarmuka Ramah Anak & Responsif**   
 
 ## 🛠 Teknologi yang Digunakan  
 - **HTML5** – Struktur halaman  
 - **CSS3** – Tampilan dan desain  
 - **JavaScript** – Logika permainan dan interaktivitas  
-
-## 📦 Cara Menjalankan  
-1. **Clone Repository**  
-   ```bash
-   git clone https://github.com/username/QuickMathVS.git
